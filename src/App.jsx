@@ -10,7 +10,7 @@ function App() {
   return (
 
     <>
-  <h1>A blog app with appwrite!</h1>
+  <h1>A blog app with appwrite! with Ramananth</h1>
 
     </>
     
